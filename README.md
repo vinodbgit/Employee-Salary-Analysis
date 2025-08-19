@@ -1,7 +1,3 @@
-Got it ✅ I went through your uploaded **project report on “Data Science Job Salaries 2020–2024”**. Based on that, here’s a professional **README.md** draft for your GitHub repo:
-
----
-
 # 📊 Data Science Job Salaries (2020–2024)
 
 This project explores **Data Science job salaries between 2020 and 2024**, analyzing trends, patterns, and key factors affecting compensation. The dataset is sourced from **Kaggle** and analyzed using Python libraries such as **Pandas, NumPy, Matplotlib, and Seaborn**.
